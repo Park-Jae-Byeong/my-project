@@ -6,6 +6,5 @@ int main()
 	printf("hello kcci\n");
 	printf("Nice to meet Git\n");
 
-
 	return 0;
 }
